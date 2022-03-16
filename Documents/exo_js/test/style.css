@@ -1,0 +1,27 @@
+body {
+    background-color: #111;
+    color: #ffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  img {
+      width: 40%;
+  }
+img.card-img-top:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+
+  .card-body{
+      margin-top: 5%;
+  }
+
+  #border{
+    align-items: center;
+    box-sizing: border-box;
+    width: 250px;
+    height:150px;
+    border-radius: 10px;
+    background: linear-gradient(to left right, #00ff99, #9999ff);
+  }

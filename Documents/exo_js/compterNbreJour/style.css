@@ -1,0 +1,14 @@
+body ,  #calculate-button{
+    background-color: #111;
+    color: #EEE;
+    font-family: 'Comfortaa', cursive;
+  }
+  
+  .my-form {
+    padding: 20px;
+  }
+  #calculate-button{
+    border-radius: 5px;
+    color: azure;
+    background-color: #111;
+  }
